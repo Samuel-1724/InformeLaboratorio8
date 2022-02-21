@@ -22,6 +22,8 @@ Determinar experimentalmente las características de señales senoidales.
 
 **3.1. ¿Qué es una onda? Y los tipos de ondas**
 
+Una onda consiste en la propagación de una perturbación de alguna propiedad del espacio, por ejemplo, densidad, presión, campo eléctrico o campo magnético, implicando un transporte de energía sin transporte de materia.
+
 [![1.png](https://i.postimg.cc/zXZHTZpv/1.png)](https://postimg.cc/8s4CVY2g)
 
 **3.2. Onda Senoidal**
