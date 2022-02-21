@@ -1,13 +1,13 @@
 # InformeLaboratorio8
 **1. TEMA:**
 
-Inductor y Capacitor
+Características de la onda senoidal.
 
 **2. OBJETIVO**
 
 **2.1. Objetivo General**
 
-Comprobar experimentalmente el funcionamiento de los inductores y los capacitores en un circuito.
+Determinar experimentalmente las características de señales senoidales.
 
 **2.2. Objetivos Específicos**
 
@@ -19,3 +19,18 @@ Comprobar experimentalmente el funcionamiento de los inductores y los capacitore
 - Observar los resultados y concluir para que sirve cada herramienta. 
 
 **3. MARCO TEÓRICO**
+
+**3.1. ¿Qué es una onda? Y los tipos de ondas**
+
+[![1.png](https://i.postimg.cc/zXZHTZpv/1.png)](https://postimg.cc/8s4CVY2g)
+
+**3.2. Onda Senoidal**
+
+Onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable, en un par de ejes cartesianos marcados en amplitud y tiempo.
+
+[![2.png](https://i.postimg.cc/K8YGM0X4/2.png)](https://postimg.cc/zV9YmSG1)
+
+[![3.jpg](https://i.postimg.cc/D02kKznm/3.jpg)](https://postimg.cc/WFffGTDP)
+
+
+
