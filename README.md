@@ -71,7 +71,7 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
-1V/DIV
+10V/DIV
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
