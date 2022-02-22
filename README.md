@@ -67,15 +67,15 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-3 divisiones por cuadro. 
+6.85 V 
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
-En 3
+1V/DIV
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-5 divisiones por cuadro.
+4 divisiones por cuadro.
 
 ¿En qué valor está posicionada la perilla TIME/DIV? 
 
