@@ -84,12 +84,12 @@ Onda senoidal representa el valor de la tensión de la Corriente alterna a trav�
 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 - Amplitud de voltaje: 6.85 (V)
-- Periodo: 0.15(s)
+- Periodo: 2500 (s)
 
 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-- f: _____________(Hz)
-- ω: ____________(rad/s)
+- f: 400 u(Hz)
+- ω: 0.002513(rad/s)
 - 
 Con el multímetro digital mida el voltaje de salida en RL:
 
@@ -98,9 +98,9 @@ Con el multímetro digital mida el voltaje de salida en RL:
 Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
 - ¿Coinciden?
-
+No coinciden
 - ¿Por qué?
-
+Debido a que el voltaje sacado por el multímetro representa tan solo el voltaje RMS
 **6. VÍDEO**
 
 https://www.youtube.com/watch?v=E8NaUUK9Ilk
