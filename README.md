@@ -11,11 +11,10 @@ Determinar experimentalmente las características de señales senoidales.
 
 **2.2. Objetivos Específicos**
 
-- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
-- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+- Interpretar la onda sinusoidal que el circuito presenta.
+- Aprender a analizar el circuito con las herramientas que contamos.
 - Realizar el circuito propuesto de manera correcta y funcional.
-- Verificar las combinaciones serie y paralelo de bobinas y capacitores..
-- Familiarizarse con el uso de instrumentos de medida.
+- Verificar las combinaciones serie y paralelo.
 - Observar los resultados y concluir para que sirve cada herramienta. 
 
 **3. MARCO TEÓRICO**
@@ -91,4 +90,20 @@ Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 - ¿Coinciden?
 
 - ¿Por qué?
+
+**6. VÍDEO**
+
+https://www.youtube.com/watch?v=E8NaUUK9Ilk
+
+**7. CONCLUSIONES**
+
+En este informe de laboratorio vimos las caracteristicas de una onda sinoidal. Cómo se comporta y cómo actúa en distintas cirscunstancias. Armamos el circuito de manera similar al laboratorio y colocamos los datos pertinentes. Al medir con el osciloscopio, pudimos notar la forma de onda del voltaje, notando ciertos cambios que fueron respondidos en las anteriores preguntas. De igul manera obtuvimos la amplitud y la frecuencia de la onda para poder tener una mejor idea del voltaje utilizado. Utilizamos las herramientas que ya habiamos conocido como el osciloscopio y el multímetro, gracias a ellos logramos diferencias los voltajes captados en ambas herramientas. Este informe nos ayudo a conocer mejor las herramientas a utilizar y el cómo utilizarlas, al igual que saber interpretar de mejor manera las ondas.
+
+**8. BIBLIOGRAFÍA**
+
+- Circuit. (2010). Multisim. Obtenido de https://www.multisim.com/create/
+- Ministerio de Educaión . (2011). inet. Obtenido de http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
+- Circuit. (2010). Multisim. Obtenido de https://www.multisim.com/create/
+- Gallo, H. (12 de Enero de 2019). Hetpro. Obtenido de https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+
 
